@@ -1,0 +1,39 @@
+.title {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.title.main {
+    font-size: 40px;
+    background-color: aqua;
+}
+
+.recipelist {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+.recipeimagecontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.recipeimage {
+    width: 300px;
+    height: auto;
+}
+
+.recipeinfo {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: aqua;
+}
+
+.ingredientslistcontainer {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: beige;
+}
+
+.stepscontainer {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: chocolate;
+}
