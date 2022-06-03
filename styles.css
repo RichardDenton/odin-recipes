@@ -28,6 +28,27 @@
     background-color: aqua;
 }
 
+.recipeinfo p {
+    margin-bottom: 0;
+}
+
+.infolistcontainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.infolist {
+    display: flex;
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.infolist li {
+    padding: 20px;
+}
+
 .ingredientslistcontainer {
     font-family: Helvetica, Arial, sans-serif;
     background-color: beige;
